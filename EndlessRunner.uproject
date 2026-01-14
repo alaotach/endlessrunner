@@ -14,6 +14,10 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "WakatimeIntegration",
+			"Enabled": false
 		}
 	]
 }
